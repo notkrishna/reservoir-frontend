@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241696971685",
+    "project_id": "reservoir-95d88",
+    "storage_bucket": "reservoir-95d88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241696971685:android:e9ff12e8983b17e50be64c",
+        "android_client_info": {
+          "package_name": "com.example.fluttert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241696971685-lsd2aqml0gh37t0ath3ig7329ifodfg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJfBnJYjPoCmax8za4tJFzTbrWhGRvjaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241696971685-lsd2aqml0gh37t0ath3ig7329ifodfg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
